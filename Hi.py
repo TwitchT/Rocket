@@ -1,0 +1,5 @@
+print("Hi Jose")
+print("You have an amazing name")
+print("Uh Oh Woompa Uh Oh")
+print("I like Noodles")
+print("Ramen is the best food")
